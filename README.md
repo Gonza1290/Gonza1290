@@ -85,9 +85,9 @@ Sistema de predicción de demanda y optimización de stock.
 
 ## **📊 Estadísticas GitHub**  
 
+
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Gonzal290&show_icons=true&theme=radical" alt="Estadísticas"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzal290&layout=compact&theme=radical" alt="Lenguajes"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonza1290&layout=compact&theme=radical" alt="Lenguajes"/>  
 </div>  
 
 ---
