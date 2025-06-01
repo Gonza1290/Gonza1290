@@ -98,11 +98,8 @@ Estoy abierto a oportunidades donde pueda:
 🔸 Trabajar en equipos que valoren buenas prácticas y código limpio.    
 🔸 Contribuir en proyectos escalables con impacto real.
 
----
-
 ## **📫 Contacto**  
 💼 [LinkedIn](http://www.linkedin.com/in/gonzalo-cayo-625169263)  
 📂 [GitHub](https://github.com/Gonzal290)   
 
 
---- 
