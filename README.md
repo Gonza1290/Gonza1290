@@ -63,18 +63,11 @@
 📅 **2023** | [Repositorio](https://github.com/Gonzal290/el-buen-sabor)  
 Sistema backend para gestión de pedidos, inventario y facturación de un local gastronómico.  
 ✔ **Tecnologías**: Java, Spring Boot, PostgreSQL, JWT, Docker.  
-✔ **Logros**:  
-  - Implementación de **roles y autenticación JWT**.  
-  - API REST con arquitectura de 3 capas.  
-  - Pruebas unitarias con **JUnit + Mockito**.  
 
 ### **2. SonoUno (Investigación UTN-UM)**  
 📅 **2023-2024**  
-Backend para sistema de entrenamiento médico con Python y Django.  
+Backend para sistema de entrenamiento con Python y Django.  
 ✔ **Tecnologías**: Python, Django, MariaDB.  
-✔ **Logros**:  
-  - Diseño de base de datos relacional.  
-  - Implementación de patrón **MVT (Model-View-Template)**.  
 
 ### **3. InvOp (Gestión de Inventarios)**  
 📅 **2024**  
