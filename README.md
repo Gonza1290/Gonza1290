@@ -1,3 +1,4 @@
+
 # **Gonzalo Cayo** 👨‍💻  
 ### Estudiante de Ingeniería en Sistemas de Información | Backend Developer  
 
@@ -17,8 +18,6 @@
 
 
 📍 **Mendoza, Argentina** | 📧 **gonzacayo@gmail.com**  
-
---- 
 
 ## **🛠 Tecnologías y Habilidades**  
 
@@ -57,7 +56,7 @@
 
 ---
 
-## ** Proyectos **  
+## **Proyectos**  
 
 ### **1. El Buen Sabor (E-commerce Backend)**  
 📅 **2023** | [Repositorio](https://github.com/Gonzal290/el-buen-sabor)  
@@ -66,7 +65,7 @@ Sistema backend para gestión de pedidos, inventario y facturación de un local 
 
 ### **2. SonoUno (Investigación UTN-UM)**  
 📅 **2023-2024**  
-Backend para sistema de entrenamiento con Python y Django.  
+Sistema de entrenamiento con Python y Django.  
 ✔ **Tecnologías**: Python, Django, MariaDB.  
 
 ### **3. InvOp (Gestión de Inventarios)**  
@@ -74,14 +73,7 @@ Backend para sistema de entrenamiento con Python y Django.
 Sistema de predicción de demanda y optimización de stock.  
 ✔ **Tecnologías**: Python, Django, JavaScript, SQL.  
 
----
 
-## **📊 Estadísticas GitHub**  
-
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonza1290&layout=compact&theme=radical" alt="Lenguajes"/>  
-</div>  
 
 ---
 
