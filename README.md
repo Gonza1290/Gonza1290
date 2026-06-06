@@ -8,7 +8,7 @@
 ---
 
 ## **📌 Sobre Mí**  
-¡Hola! Soy **Gonzalo Cayo**, estudiante avanzado de **Ingeniería en Sistemas** con especialización en desarrollo backend.  
+¡Hola! Soy **Gonzalo Cayo**, estudiante avanzado de **Ingeniería en Sistemas** con especialización en desarrollo backend, actualmente estoy en un puesto de developer backend con java.
 
 🔹 **Especializado** en el diseño de aplicaciones escalables bajo patrones arquitectónicos como **MVC/MVT, Microservicios y Arquitectura por Capas**, combinados con **patrones de diseño** y principios de **Clean Code**.  
 🔹 **Experiencia** en modelado y optimización de bases de datos relacionales y no relacionales.  
@@ -57,7 +57,7 @@
 
 ---
 
-## **🚀 Proyectos Destacados**  
+## ** Proyectos **  
 
 ### **1. El Buen Sabor (E-commerce Backend)**  
 📅 **2023** | [Repositorio](https://github.com/Gonzal290/el-buen-sabor)  
@@ -84,12 +84,6 @@ Sistema de predicción de demanda y optimización de stock.
 </div>  
 
 ---
-
-Estoy abierto a oportunidades donde pueda:
-
-🔸 Aplicar y mejorar mis habilidades en arquitectura de software.   
-🔸 Trabajar en equipos que valoren buenas prácticas y código limpio.    
-🔸 Contribuir en proyectos escalables con impacto real.
 
 ## **📫 Contacto**  
 💼 [LinkedIn](http://www.linkedin.com/in/gonzalo-cayo-625169263)  
